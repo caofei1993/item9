@@ -3,6 +3,8 @@
 
 body{font-size:12px;font-family:"微软雅黑";}
 body,dl,dd,h1,h2,h3,h4,h5,h6,p{margin:0;}
+html,body{width:100%;min-width:1239px;
+    height:100%;}
 h1,h2,h3,h4,h5,h6{font-weight:normal;font-size:12px; font-family:"微软雅黑";}
 img{border:none;}
 ul,ol{margin:0;padding:0;list-style:none;}
